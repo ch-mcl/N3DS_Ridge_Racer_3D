@@ -1,0 +1,9 @@
+D:\Hack\3ds\RidgeRacer3D\git_N3DS_RidgeRacer3D\3ds_ridgeracer_3d\RidgeRacer3DTableTool\RidgeRacer3DTableTool\bin\Debug\RidgeRacer3DTableTool.exe.config
+D:\Hack\3ds\RidgeRacer3D\git_N3DS_RidgeRacer3D\3ds_ridgeracer_3d\RidgeRacer3DTableTool\RidgeRacer3DTableTool\bin\Debug\RidgeRacer3DTableTool.exe
+D:\Hack\3ds\RidgeRacer3D\git_N3DS_RidgeRacer3D\3ds_ridgeracer_3d\RidgeRacer3DTableTool\RidgeRacer3DTableTool\bin\Debug\RidgeRacer3DTableTool.pdb
+D:\Hack\3ds\RidgeRacer3D\git_N3DS_RidgeRacer3D\3ds_ridgeracer_3d\RidgeRacer3DTableTool\RidgeRacer3DTableTool\obj\Debug\RidgeRacer3DTableTool.Properties.Resources.resources
+D:\Hack\3ds\RidgeRacer3D\git_N3DS_RidgeRacer3D\3ds_ridgeracer_3d\RidgeRacer3DTableTool\RidgeRacer3DTableTool\obj\Debug\RidgeRacer3DTableTool.csproj.GenerateResource.cache
+D:\Hack\3ds\RidgeRacer3D\git_N3DS_RidgeRacer3D\3ds_ridgeracer_3d\RidgeRacer3DTableTool\RidgeRacer3DTableTool\obj\Debug\RidgeRacer3DTableTool.csproj.CoreCompileInputs.cache
+D:\Hack\3ds\RidgeRacer3D\git_N3DS_RidgeRacer3D\3ds_ridgeracer_3d\RidgeRacer3DTableTool\RidgeRacer3DTableTool\obj\Debug\RidgeRacer3DTableTool.exe
+D:\Hack\3ds\RidgeRacer3D\git_N3DS_RidgeRacer3D\3ds_ridgeracer_3d\RidgeRacer3DTableTool\RidgeRacer3DTableTool\obj\Debug\RidgeRacer3DTableTool.pdb
+D:\Hack\3ds\RidgeRacer3D\git_N3DS_RidgeRacer3D\3ds_ridgeracer_3d\RidgeRacer3DTableTool\RidgeRacer3DTableTool\obj\Debug\RidgeRacer3DTableTool.Form1.resources

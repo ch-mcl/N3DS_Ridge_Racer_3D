@@ -1,0 +1,44 @@
+//------------------------------------------------
+//--- 010 Editor v13.0.1 Binary Template
+//
+//      File: 
+//   Authors: 
+//   Version: 
+//   Purpose: 
+//  Category: 
+// File Mask: 
+//  ID Bytes: 
+//   History: 
+//------------------------------------------------
+
+typedef struct Header{
+    char magic[4];
+    uint dataPtr;
+    uint unk08h;
+    uint unk0Ch;
+    ushort count;
+    ushort unk12h;
+    ushort unk14h[16];
+    byte dummy;
+};
+
+typedef struct RR3D_Text {
+    byte id[16];
+    uint totalLen;
+    uint unk14h<comment="const 0x1C">;
+    ushort textLen;
+    ushort unk1Ah;
+    byte dummy1;
+    char name[textLen];
+    byte dummy2;
+};
+
+
+LittleEndian();
+
+Header header;
+local int i;
+for (i = 0; i < header.count; i++) {
+    RR3D_Text texts;
+}
+
